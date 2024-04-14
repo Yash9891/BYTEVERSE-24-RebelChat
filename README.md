@@ -32,6 +32,9 @@ To run RebelChat locally from GitHub, ensure you have Node.js, MongoDB, and Git 
 
 
 ![Screenshot 2024-04-14 182028](https://github.com/Yash9891/BYTEVERSE-24-RebelChat/assets/122812129/7fdcd2ba-f1aa-43b3-b7df-4fd7b8b35531)
+
 ![Screenshot 2024-04-14 181901](https://github.com/Yash9891/BYTEVERSE-24-RebelChat/assets/122812129/15a500c1-4a96-4b16-bf47-d101e8abaa69)
+
 ![Screenshot 2024-04-14 181923](https://github.com/Yash9891/BYTEVERSE-24-RebelChat/assets/122812129/d176d907-1409-4a90-abe8-9f1ce725f7fb)
+
 ![Screenshot 2024-04-14 182028](https://github.com/Yash9891/BYTEVERSE-24-RebelChat/assets/122812129/a75c27c5-6cea-4ea8-a107-bafc0c0879f4)
