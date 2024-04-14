@@ -22,7 +22,7 @@ To run RebelChat locally from GitHub, ensure you have Node.js, MongoDB, and Git 
 # Libraries and dependencies
 ### Express.js, React.js, Mongoose, bcryptjs, jsonwebtoken, axios, dotenv, cors, moment, socket.io, multer, react-router-dom, react-icons
 
-## Link of the Overview Video: [![Watch RebelChat](https://www.youtube.com/watch?v=w7JC-2KX7Aw)
+## Link of the Overview Video: [Watch RebelChat](https://www.youtube.com/watch?v=w7JC-2KX7Aw)
 
 # Key Features:
 ### Sleek Design: Modern and elegant layout.
