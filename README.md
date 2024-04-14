@@ -6,15 +6,23 @@ RebelChat breaks the barriers of conventional communication platforms with its i
 Designed during a hackathon using the MERN stack, RebelChat embodies the rebellious spirit of pushing boundaries and challenging norms.
 Seamlessly integrating MongoDB, Express.js, React.js, and Node.js, RebelChat ensures smooth performance and reliability.
 
+Tech stack used: MongoDB, Express.js, React.js, and Node.js
+
+#  Installation steps
 To run RebelChat locally from GitHub, ensure you have Node.js, MongoDB, and Git installed. Then, follow these steps:
 
-# Clone the repository.
+### Clone the repository.
 ### Navigate to the project directory.
 ### Install dependencies with npm install.
 ### Set up environment variables in a .env file.
 ### Start MongoDB.
 ### Start the server with npm start.
 ### Access RebelChat at http://localhost:PORT.
+
+# Libraries and dependencies
+### Express.js, React.js, Mongoose, bcryptjs, jsonwebtoken, axios, dotenv, cors, moment, socket.io, multer, react-router-dom, react-icons
+
+## Link of the Overview Video: [![Watch RebelChat](https://www.youtube.com/watch?v=w7JC-2KX7Aw)
 
 # Key Features:
 ### Sleek Design: Modern and elegant layout.
